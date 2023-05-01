@@ -1,0 +1,1 @@
+Toy [id=2, name=Кукла, sum=5, frequency=8.064516]
